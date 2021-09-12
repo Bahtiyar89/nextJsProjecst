@@ -1,0 +1,18 @@
+{
+    "posts": [
+        {
+            "id":1,
+            "title":"Next js",
+            "body": " For more information on what to do next, we recommend the following sections:"
+        },
+        {
+            "id":2,
+            "title":"React js",
+            "body": " For more information on what to do next, we recommend the following sections:"
+        }
+    ],
+    "about":{
+        "title": "About us page"
+    }
+
+}
